@@ -12,17 +12,32 @@ a<-2446
 # divide a by 2
 a/2
 
-# create vector called c, with the values below
+# create vector called b, with the values below
 b<-c(2446, 40, 10000)
 
-# create vector c, with values below
+# create vector c and d, with values below
 c<-c(1,2,3,4)
+d<-c(4,3,2,1)
 
-# add b and c
-b+c
+# add c and d 
+c+d
 
-# b*3
+# subtract c from d
+c-d
+
+# multiply b by 3
 b*3
 
-# 
+# divide b by 2
+b/2
 
+# divide 4 by 2 and assign the 
+#  result to variable e
+e<-4*2
+
+# multiply 4 by 2 and assign the 
+#  result to variable f
+f<-4/2
+
+# multiply e by f
+e*f
